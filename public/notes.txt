@@ -1,0 +1,4 @@
+For communication between parent and child ---> props.
+For data storage and recall in the component --> state obj
+Move state object in the parent component to facilitate communication among siblings and parent then passes the state obj value to its
+children through props.
